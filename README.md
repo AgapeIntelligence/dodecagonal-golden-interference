@@ -1,2 +1,7 @@
-# dodecagonal-golden-interference
-Minimal Python gen of a 12-fold symmetric harmonic field using 432-unit carrier and golden-ratio phase offsets across 12 waves. Thresholded superposition yields clean quasiperiodic interference pattern with sharp dodecagonal Bragg peaks scaled by powers of φ — a true 2D 12-fold quasicrystal diffraction analogue. Single file, &lt;150 LOC, numpy only.
+@software{agapeintelligence_2025,
+  author = {AgapeIntelligence},
+  title = {dodecagonal-golden-interference: Minimal 12-fold golden-ratio quasicrystal generator},
+  url = {https://github.com/AgapeIntelligence/dodecagonal-golden-interference},
+  year = {2025},
+  note = {Developed entirely in Pythonista on iPhone 14 Pro Max}
+}
