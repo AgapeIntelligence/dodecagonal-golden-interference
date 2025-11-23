@@ -1,0 +1,5 @@
+# Core dependency – required to run the generator
+numpy>=1.21.0
+
+# Optional – only needed for visualization / creating example images
+matplotlib>=3.5.0
